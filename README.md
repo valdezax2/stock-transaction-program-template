@@ -10,8 +10,12 @@ Last month Joe purchased some stock in Acme Software, Inc. Here are the details 
 - He paid his stockbroker another commission that amounted to 2 percent of the amount he received for the stock.
 
 ## Write a program that displays the following information:
-- The amount of money Joe paid for the stock.
-- The amount of commission Joe paid his broker when he bought the stock.
-- The amount that Joe sold the stock for.
-- The amount of commission Joe paid his broker when he sold the stock.
-- Display the amount of money that Joe had left when he sold the stock and paid his broker (both times). If this amount is positive, then Joe made a profit. If the amount is negative, then Joe lost money.
+- [ ] The amount of money Joe paid for the stock.
+- [ ] The amount of commission Joe paid his broker when he bought the stock.
+- [ ] The amount that Joe sold the stock for.
+- [ ] The amount of commission Joe paid his broker when he sold the stock.
+- [ ] Display the amount of money that Joe had left when he sold the stock and paid his broker (both times). If this amount is positive, then Joe made a profit. If the amount is negative, then Joe lost money.
+
+
+# Deliverables
+A **main.py** file that contains your code. Make sure that it runs and it meets all of the qualification listed above.
